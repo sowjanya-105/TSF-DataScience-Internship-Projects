@@ -1,4 +1,4 @@
-# TSF-DataScience-Internship-Projects
+# TSF-Data Science And Business Analytics Internship Projects
 
 This **repository** contains the projects I've worked on as a part of The Sparks Foundation Internship from **1st December,2020 to 31st December,2020.**
 
